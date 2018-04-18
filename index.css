@@ -1,0 +1,47 @@
+body{
+  margin:0px;
+  padding:0px;
+  background-image:url(blood.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+a{
+  padding:10px;
+  text-decoration:none;
+  font-family:"Varela Round";
+  color:white;
+  font-size:20px;
+}
+nav{
+ background-color:#E74C3C;
+  padding:20px;
+}
+
+.content{
+     margin-top: 550px;
+    margin-bottom: 0px;
+    margin-left: 0;
+    margin-right: 0;
+    padding:30px;
+    background-color: #E74C3C;
+    height:100%;
+}
+
+#text-style{
+  font-family:"Varela Round";
+  color:black;
+}
+
+h2{
+  font-family: 'Monoton', cursive;
+  color:white;
+  padding:0px;
+  margin:0px;
+}
+
+
+
+h3{
+  font-family:"Varela Round";
+}
