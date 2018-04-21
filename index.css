@@ -1,7 +1,7 @@
 body{
   margin:0px;
   padding:0px;
-  background-image:url(Charlie chaplin dictator.jpg);
+  background-image:url(dictatorio/Charlie chaplin dictator.jpg);
   background-size:cover;
   background-repeat: no-repeat;
 }
@@ -14,7 +14,7 @@ a{
   font-size:20px;
 }
 nav{
- background-color:#E74C3C;
+ background-color: #a93ee8;
   padding:20px;
 }
 
@@ -24,7 +24,7 @@ nav{
     margin-left: 0;
     margin-right: 0;
     padding:30px;
-    background-color: #E74C3C;
+    background-color: #a93ee8;
     height:100%;
 }
 
