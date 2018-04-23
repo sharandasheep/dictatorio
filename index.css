@@ -33,6 +33,10 @@ nav{
   color:white;
 }
 
+.selected{
+	font-weight:bold;
+}
+
 h2{
   font-family: 'Monoton', cursive;
   color:white;
